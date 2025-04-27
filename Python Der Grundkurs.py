@@ -6,3 +6,5 @@ print("Wie funktioniert dieses Intell")
 
 print("Hello world")
 # Test
+# Test update
+print("Update eines Testprogramms. Klappt der Test?? auf Github?")
