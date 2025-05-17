@@ -15,7 +15,7 @@ import pygame
 
 print("BlaBlaBla")
 
-for i = 1 to 5
+for i in 1 to 5
     print("dfgldghkdg")
 
 
